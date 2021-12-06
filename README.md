@@ -19,3 +19,8 @@
 |     9     |     Product_Category_2     |  float64  |       Category of product       | True   |
 |     10    |     Product_Category_3     |  float64  |       Category of product       | True   |
 |     11    |          Purchase          |   int64   |         Purchase amount         | False  |
+
+<h2> For Dataset Reach me: </h2>
+<p align="left">
+<a href="mailto:punithmadaiahkumar@gmail.com" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/gmail.png" alt="punith_gowda35" height="40" width="40" /></a>
+</p>
